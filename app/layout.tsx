@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "爱铭网络 - ChatGPT",
-  description: "这是一个免费的 ChatGPT 机器人.",
+  description: "这是一个免费的 ChatGPT AI机器人.",
   appleWebApp: {
     title: "爱铭网络 - ChatGPT",
     statusBarStyle: "default",
