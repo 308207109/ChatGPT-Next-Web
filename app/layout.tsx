@@ -10,10 +10,10 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "NextChat",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "爱铭网络 - ChatGPT",
+  description: "这是一个免费的 ChatGPT 机器人.",
   appleWebApp: {
-    title: "NextChat",
+    title: "爱铭网络 - ChatGPT",
     statusBarStyle: "default",
   },
 };
